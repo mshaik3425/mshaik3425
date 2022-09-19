@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mshaik3425
+- 👀 I’m interested in Programming
+- 🌱 I’m currently doing Masters in CS @SUNY, Binghamton
+- 💞️ I’m looking to collaborate on xv6, Design & Analysis of Alg
+- 📫 How to reach me (mshaik1@binghamton.edu (or) +16072969452)
